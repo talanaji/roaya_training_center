@@ -17,7 +17,7 @@ $verif_box = $_REQUEST["verif_box"];
 $to_email = "as3ad.mansour@gmail.com";
    $subject = "Simple Email Test via PHP";
    $body = "Hi,nn This is test email send by PHP Script";
-   $headers = "From: as3ad.mansour@gmail.com";
+   $headers = "From: talanaji@gmail.com";
  
    if ( mail($to_email, $subject, $body, $headers)) {
       echo("Email successfully sent to $to_email...");
