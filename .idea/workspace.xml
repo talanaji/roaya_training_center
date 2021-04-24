@@ -1,0 +1,662 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6267daeb-98d0-4a88-a32d-25a65eebc0db" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="main_vw.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../tojar_site/application/views/end_userPages/main_vw.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3332">
+              <caret line="196" column="88" selection-start-line="196" selection-start-column="74" selection-end-line="196" selection-end-column="88" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Main_ci.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../tojar_site/application/controllers/Main_ci.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1054">
+              <caret line="224" column="89" selection-start-line="219" selection-start-column="27" selection-end-line="224" selection-end-column="89" />
+              <folding>
+                <element signature="n#index#0;n#Main_ci#0;n#!!top" />
+                <element signature="n#login#0;n#Main_ci#0;n#!!top" />
+                <element signature="n#register#0;n#Main_ci#0;n#!!top" />
+                <element signature="n#logout#0;n#Main_ci#0;n#!!top" />
+                <element signature="n#our_services#0;n#Main_ci#0;n#!!top" />
+                <element signature="n#about_us#0;n#Main_ci#0;n#!!top" />
+                <element signature="n#register_account#0;n#Main_ci#0;n#!!top" />
+                <element signature="n#faq#0;n#Main_ci#0;n#!!top" />
+                <element signature="n#Terms_Conditions#0;n#Main_ci#0;n#!!top" />
+                <element signature="n#Privacy_Policy#0;n#Main_ci#0;n#!!top" />
+                <element signature="n#our_stores#0;n#Main_ci#0;n#!!top" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="footer.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/application/views/cp/templates/footer.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="357">
+              <caret line="21" column="16" selection-start-line="21" selection-start-column="16" selection-end-line="21" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Reservation_ci.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/application/controllers/Reservation_ci.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2992">
+              <caret line="914" column="7" selection-start-line="914" selection-start-column="7" selection-end-line="915" selection-end-column="59" />
+              <folding>
+                <element signature="n#add_f#0;n#Reservation_ci#0;n#!!top" />
+                <element signature="n#group_reserv#0;n#Reservation_ci#0;n#!!top" />
+                <element signature="n#AddEdit_reserv#0;n#Reservation_ci#0;n#!!top" />
+                <element signature="n#get_inserted_row_val#0;n#Reservation_ci#0;n#!!top" />
+                <element signature="n#copy_new_reserv#0;n#Reservation_ci#0;n#!!top" />
+                <element signature="n#AddEdit_GRreserv#0;n#Reservation_ci#0;n#!!top" />
+                <element signature="n#view_reserv#0;n#Reservation_ci#0;n#!!top" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>addreserv_new</find>
+      <find>clear_session</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/application/views/cp/students_vw.php" />
+        <option value="$PROJECT_DIR$/application/controllers/Students_ci.php" />
+        <option value="$PROJECT_DIR$/../tojar_site/application/controllers/Main_ci.php" />
+        <option value="$PROJECT_DIR$/application/views/cp/templates/footer.php" />
+        <option value="$PROJECT_DIR$/application/views/cp/templates/header.php" />
+        <option value="$PROJECT_DIR$/application/config/config.php" />
+        <option value="$PROJECT_DIR$/application/views/cp/reservation_vw.php" />
+        <option value="$PROJECT_DIR$/test.php" />
+        <option value="$PROJECT_DIR$/application/language/arabic/cperm_lang.php" />
+        <option value="$PROJECT_DIR$/application/controllers/Reservation_ci.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths>
+      <path value="$PROJECT_DIR$/public/assets/node_modules/Magnific-Popup-master/package.json" />
+      <path value="$PROJECT_DIR$/public/assets/node_modules/bootstrap-material-datetimepicker/package.json" />
+      <path value="$PROJECT_DIR$/public/assets/node_modules/bootstrap-treeview-master/package.json" />
+      <path value="$PROJECT_DIR$/public/assets/node_modules/bootstrap/package.json" />
+      <path value="$PROJECT_DIR$/public/assets/node_modules/c3-master/package.json" />
+      <path value="$PROJECT_DIR$/public/assets/node_modules/chartist-plugin-tooltip-master/package.json" />
+      <path value="$PROJECT_DIR$/public/assets/node_modules/dropify/package.json" />
+      <path value="$PROJECT_DIR$/public/assets/node_modules/dropzone-master/package.json" />
+      <path value="$PROJECT_DIR$/public/assets/node_modules/flot/package.json" />
+      <path value="$PROJECT_DIR$/public/assets/node_modules/holderjs/package.json" />
+      <path value="$PROJECT_DIR$/public/assets/node_modules/jquery-asColor/package.json" />
+      <path value="$PROJECT_DIR$/public/assets/node_modules/jquery-asColorPicker-master/package.json" />
+      <path value="$PROJECT_DIR$/public/assets/node_modules/jquery-asGradient/package.json" />
+      <path value="$PROJECT_DIR$/public/assets/node_modules/jquery-steps-master/package.json" />
+      <path value="$PROJECT_DIR$/public/assets/node_modules/jquery-wizard-master/package.json" />
+      <path value="$PROJECT_DIR$/public/assets/node_modules/jqueryui/package.json" />
+      <path value="$PROJECT_DIR$/public/assets/node_modules/morrisjs/package.json" />
+      <path value="$PROJECT_DIR$/public/assets/node_modules/select2/package.json" />
+      <path value="$PROJECT_DIR$/public/assets/node_modules/sidebar-nav/package.json" />
+      <path value="$PROJECT_DIR$/public/assets/node_modules/tablesaw-master/package.json" />
+    </packageJsonPaths>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="32" />
+    <option name="y" value="59" />
+    <option name="width" value="1346" />
+    <option name="height" value="698" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="as3ad_new" type="b2602c69:ProjectViewProjectNode" />
+              <item name="as3ad_new" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="as3ad_new" type="b2602c69:ProjectViewProjectNode" />
+              <item name="as3ad_new" type="462c0819:PsiDirectoryNode" />
+              <item name="application" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\as3ad_new\public\assets\plugins\bootstrap-datepicker" />
+      <recent name="C:\xampp\htdocs\as3ad_new\public" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6267daeb-98d0-4a88-a32d-25a65eebc0db" name="Default" comment="" />
+      <created>1569268769342</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1569268769342</updated>
+      <workItem from="1569268770554" duration="4199000" />
+      <workItem from="1569348205803" duration="12145000" />
+      <workItem from="1569438369877" duration="19186000" />
+      <workItem from="1569523769920" duration="6808000" />
+      <workItem from="1569580709753" duration="2296000" />
+      <workItem from="1569697243505" duration="5718000" />
+      <workItem from="1569749361246" duration="19587000" />
+      <workItem from="1569831044134" duration="2806000" />
+      <workItem from="1569874920645" duration="10198000" />
+      <workItem from="1569918398992" duration="16120000" />
+      <workItem from="1570045328793" duration="1248000" />
+      <workItem from="1570297825377" duration="599000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="100910000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24963397" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32843137" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/application/views/cp/templates/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1564">
+          <caret line="78" column="26" selection-start-line="78" selection-start-column="26" selection-end-line="78" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/cp/templates/footer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="8568">
+          <caret line="504" column="27" selection-start-line="504" selection-start-column="13" selection-end-line="504" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../tojar_site/application/controllers/Main_ci.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1054">
+          <caret line="224" column="89" selection-start-line="219" selection-start-column="27" selection-end-line="224" selection-end-column="89" />
+          <folding>
+            <element signature="n#index#0;n#Main_ci#0;n#!!top" />
+            <element signature="n#login#0;n#Main_ci#0;n#!!top" />
+            <element signature="n#register#0;n#Main_ci#0;n#!!top" />
+            <element signature="n#logout#0;n#Main_ci#0;n#!!top" />
+            <element signature="n#our_services#0;n#Main_ci#0;n#!!top" />
+            <element signature="n#about_us#0;n#Main_ci#0;n#!!top" />
+            <element signature="n#register_account#0;n#Main_ci#0;n#!!top" />
+            <element signature="n#faq#0;n#Main_ci#0;n#!!top" />
+            <element signature="n#Terms_Conditions#0;n#Main_ci#0;n#!!top" />
+            <element signature="n#Privacy_Policy#0;n#Main_ci#0;n#!!top" />
+            <element signature="n#our_stores#0;n#Main_ci#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/cp/reservation_vw.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1292">
+          <caret line="76" column="25" selection-start-line="76" selection-start-column="25" selection-end-line="76" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/controllers/Reservation_ci.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2193">
+          <caret line="289" column="66" selection-start-line="289" selection-start-column="66" selection-end-line="289" selection-end-column="66" />
+          <folding>
+            <element signature="n#add_f#0;n#Reservation_ci#0;n#!!top" />
+            <element signature="n#group_reserv#0;n#Reservation_ci#0;n#!!top" />
+            <element signature="n#AddEdit_reserv#0;n#Reservation_ci#0;n#!!top" />
+            <element signature="n#get_inserted_row_val#0;n#Reservation_ci#0;n#!!top" />
+            <element signature="n#copy_new_reserv#0;n#Reservation_ci#0;n#!!top" />
+            <element signature="n#AddEdit_GRreserv#0;n#Reservation_ci#0;n#!!top" />
+            <element signature="n#view_reserv#0;n#Reservation_ci#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../tojar_site/application/views/end_userPages/main_vw.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3332">
+          <caret line="196" column="88" selection-start-line="196" selection-start-column="74" selection-end-line="196" selection-end-column="88" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/cp/templates/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1598">
+          <caret line="78" column="26" lean-forward="true" selection-start-line="78" selection-start-column="26" selection-end-line="78" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/cp/templates/footer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="8568">
+          <caret line="504" column="27" selection-start-line="504" selection-start-column="13" selection-end-line="504" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../tojar_site/application/controllers/Main_ci.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1054">
+          <caret line="224" column="89" selection-start-line="219" selection-start-column="27" selection-end-line="224" selection-end-column="89" />
+          <folding>
+            <element signature="n#index#0;n#Main_ci#0;n#!!top" />
+            <element signature="n#login#0;n#Main_ci#0;n#!!top" />
+            <element signature="n#register#0;n#Main_ci#0;n#!!top" />
+            <element signature="n#logout#0;n#Main_ci#0;n#!!top" />
+            <element signature="n#our_services#0;n#Main_ci#0;n#!!top" />
+            <element signature="n#about_us#0;n#Main_ci#0;n#!!top" />
+            <element signature="n#register_account#0;n#Main_ci#0;n#!!top" />
+            <element signature="n#faq#0;n#Main_ci#0;n#!!top" />
+            <element signature="n#Terms_Conditions#0;n#Main_ci#0;n#!!top" />
+            <element signature="n#Privacy_Policy#0;n#Main_ci#0;n#!!top" />
+            <element signature="n#our_stores#0;n#Main_ci#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/cp/reservation_vw.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3570">
+          <caret line="210" column="30" selection-start-line="210" selection-start-column="30" selection-end-line="210" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/controllers/Reservation_ci.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5729">
+          <caret line="337" column="51" selection-start-line="337" selection-start-column="51" selection-end-line="337" selection-end-column="51" />
+          <folding>
+            <element signature="n#add_f#0;n#Reservation_ci#0;n#!!top" />
+            <element signature="n#group_reserv#0;n#Reservation_ci#0;n#!!top" />
+            <element signature="n#AddEdit_reserv#0;n#Reservation_ci#0;n#!!top" />
+            <element signature="n#get_inserted_row_val#0;n#Reservation_ci#0;n#!!top" />
+            <element signature="n#copy_new_reserv#0;n#Reservation_ci#0;n#!!top" />
+            <element signature="n#AddEdit_GRreserv#0;n#Reservation_ci#0;n#!!top" />
+            <element signature="n#view_reserv#0;n#Reservation_ci#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/controllers/Students_ci.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4760">
+          <caret line="569" column="12" selection-start-line="569" selection-start-column="12" selection-end-line="569" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../tojar_site/application/views/end_userPages/main_vw.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3332">
+          <caret line="196" column="88" selection-start-line="196" selection-start-column="74" selection-end-line="196" selection-end-column="88" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/cp/templates/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="4" lean-forward="true" selection-start-line="21" selection-start-column="4" selection-end-line="21" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/cp/templates/footer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="561">
+          <caret line="33" column="11" lean-forward="true" selection-start-line="33" selection-start-column="11" selection-end-line="33" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../tojar_site/application/controllers/Main_ci.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="935">
+          <caret line="217" column="64" lean-forward="true" selection-start-line="217" selection-start-column="64" selection-end-line="217" selection-end-column="64" />
+          <folding>
+            <element signature="n#index#0;n#Main_ci#0;n#!!top" />
+            <element signature="n#login#0;n#Main_ci#0;n#!!top" />
+            <element signature="n#register#0;n#Main_ci#0;n#!!top" />
+            <element signature="n#logout#0;n#Main_ci#0;n#!!top" />
+            <element signature="n#our_services#0;n#Main_ci#0;n#!!top" />
+            <element signature="n#about_us#0;n#Main_ci#0;n#!!top" />
+            <element signature="n#register_account#0;n#Main_ci#0;n#!!top" />
+            <element signature="n#faq#0;n#Main_ci#0;n#!!top" />
+            <element signature="n#Terms_Conditions#0;n#Main_ci#0;n#!!top" />
+            <element signature="n#Privacy_Policy#0;n#Main_ci#0;n#!!top" />
+            <element signature="n#our_stores#0;n#Main_ci#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/cp/reservation_vw.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2975">
+          <caret line="175" selection-start-line="175" selection-end-line="175" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/controllers/Reservation_ci.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding>
+            <element signature="n#add_f#0;n#Reservation_ci#0;n#!!top" />
+            <element signature="n#group_reserv#0;n#Reservation_ci#0;n#!!top" />
+            <element signature="n#AddEdit_reserv#0;n#Reservation_ci#0;n#!!top" />
+            <element signature="n#get_inserted_row_val#0;n#Reservation_ci#0;n#!!top" />
+            <element signature="n#copy_new_reserv#0;n#Reservation_ci#0;n#!!top" />
+            <element signature="n#AddEdit_GRreserv#0;n#Reservation_ci#0;n#!!top" />
+            <element signature="n#view_reserv#0;n#Reservation_ci#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/controllers/Students_ci.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4760">
+          <caret line="569" column="12" selection-start-line="569" selection-start-column="12" selection-end-line="569" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/cp/reservation_vw.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2822">
+          <caret line="166" column="25" selection-start-line="166" selection-start-column="20" selection-end-line="166" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/cp/templates/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1836">
+          <caret line="108" column="38" selection-start-line="108" selection-start-column="32" selection-end-line="108" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/controllers/Reservation_ci.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="867">
+          <caret line="51" column="148" selection-start-line="51" selection-start-column="148" selection-end-line="51" selection-end-column="148" />
+          <folding>
+            <element signature="n#add_f#0;n#Reservation_ci#0;n#!!top" />
+            <element signature="n#group_reserv#0;n#Reservation_ci#0;n#!!top" />
+            <element signature="n#AddEdit_reserv#0;n#Reservation_ci#0;n#!!top" />
+            <element signature="n#get_inserted_row_val#0;n#Reservation_ci#0;n#!!top" />
+            <element signature="n#copy_new_reserv#0;n#Reservation_ci#0;n#!!top" />
+            <element signature="n#AddEdit_GRreserv#0;n#Reservation_ci#0;n#!!top" />
+            <element signature="n#view_reserv#0;n#Reservation_ci#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/cp/students_vw.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="658" column="26" selection-start-line="658" selection-start-column="14" selection-end-line="658" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/helpers/my_functions_helper.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="82" selection-start-line="4" selection-start-column="70" selection-end-line="4" selection-end-column="82" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../tojar_site/application/views/front_end/footer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="496">
+          <caret line="360" column="54" selection-start-line="360" selection-start-column="44" selection-end-line="360" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../tojar_site/application/views/templates/header.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/jquery-2.2.3.min.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/controllers/Students_ci.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="569" column="12" selection-start-line="569" selection-start-column="12" selection-end-line="569" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/phpstorm.jar!/resources/html5-schema/html5/core-scripting.rnc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="194">
+          <caret line="12" column="16" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://F:/downloaded php script/datetimepicker-master/datetimepicker-master/jquery.datetimepicker.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-45132" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/assets/plugins/bootstrap-datepicker/jquery.datetimepicker.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://F:/downloaded php script/datetimepicker-master/datetimepicker-master/jquery.datetimepicker.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/assets/plugins/bootstrap-datepicker/jquery.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://F:/downloaded php script/datetimepicker-master/datetimepicker-master/build/jquery.datetimepicker.full.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-969" />
+      </provider>
+    </entry>
+    <entry file="file://F:/downloaded php script/datetimepicker-master/datetimepicker-master/tests/tests/methods.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://F:/downloaded php script/datetimepicker-master/datetimepicker-master/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="80" column="66" selection-start-line="80" selection-start-column="57" selection-end-line="80" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/assets/plugins/bootstrap-datepicker/karma.conf.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://F:/downloaded php script/datetimepicker-master/datetimepicker-master/karma.conf.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="2" lean-forward="true" selection-start-column="2" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://F:/downloaded php script/add-datetimepicker-jquery-plugin/datetimepicker-jquery-plugin/css/jquery.datetimepicker.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret column="768" selection-start-column="768" selection-end-column="768" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/phpstorm.jar!/resources/html5-schema/html5/block.rnc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="194">
+          <caret line="244" column="16" selection-start-line="244" selection-start-column="16" selection-end-line="244" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/phpstorm.jar!/resources/html5-schema/html5/common.rnc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="296">
+          <caret line="124" column="18" selection-start-line="124" selection-start-column="18" selection-end-line="124" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/cp/templates/footer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="16" selection-start-line="21" selection-start-column="16" selection-end-line="21" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/cp/templates/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-493">
+          <caret line="13" column="33" lean-forward="true" selection-start-line="13" selection-start-column="33" selection-end-line="13" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../tojar_site/application/controllers/Main_ci.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1054">
+          <caret line="224" column="89" selection-start-line="219" selection-start-column="27" selection-end-line="224" selection-end-column="89" />
+          <folding>
+            <element signature="n#index#0;n#Main_ci#0;n#!!top" />
+            <element signature="n#login#0;n#Main_ci#0;n#!!top" />
+            <element signature="n#register#0;n#Main_ci#0;n#!!top" />
+            <element signature="n#logout#0;n#Main_ci#0;n#!!top" />
+            <element signature="n#our_services#0;n#Main_ci#0;n#!!top" />
+            <element signature="n#about_us#0;n#Main_ci#0;n#!!top" />
+            <element signature="n#register_account#0;n#Main_ci#0;n#!!top" />
+            <element signature="n#faq#0;n#Main_ci#0;n#!!top" />
+            <element signature="n#Terms_Conditions#0;n#Main_ci#0;n#!!top" />
+            <element signature="n#Privacy_Policy#0;n#Main_ci#0;n#!!top" />
+            <element signature="n#our_stores#0;n#Main_ci#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/config/config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="2" selection-start-line="2" selection-start-column="2" selection-end-line="2" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://F:/My Executed Scripts/supersnaps.net and Database/supersnapsfinal/DB/pages.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="80" selection-start-line="80" selection-end-line="80" selection-end-column="812" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="77" column="25" selection-start-line="77" selection-start-column="25" selection-end-line="77" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/language/arabic/cperm_lang.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="428">
+          <caret line="441" selection-start-line="441" selection-end-line="441" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../tojar_site/application/views/end_userPages/main_vw.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3332">
+          <caret line="196" column="88" selection-start-line="196" selection-start-column="74" selection-end-line="196" selection-end-column="88" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/cp/reservation_vw.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="287" column="53" lean-forward="true" selection-start-line="287" selection-start-column="53" selection-end-line="287" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/controllers/Reservation_ci.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2992">
+          <caret line="914" column="7" selection-start-line="914" selection-start-column="7" selection-end-line="915" selection-end-column="59" />
+          <folding>
+            <element signature="n#add_f#0;n#Reservation_ci#0;n#!!top" />
+            <element signature="n#group_reserv#0;n#Reservation_ci#0;n#!!top" />
+            <element signature="n#AddEdit_reserv#0;n#Reservation_ci#0;n#!!top" />
+            <element signature="n#get_inserted_row_val#0;n#Reservation_ci#0;n#!!top" />
+            <element signature="n#copy_new_reserv#0;n#Reservation_ci#0;n#!!top" />
+            <element signature="n#AddEdit_GRreserv#0;n#Reservation_ci#0;n#!!top" />
+            <element signature="n#view_reserv#0;n#Reservation_ci#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
